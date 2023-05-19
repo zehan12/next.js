@@ -4,13 +4,12 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png">
       <img src="https://i.postimg.cc/FKjc76ym/314481.jpg" height="128">
     </picture>
-    <h1 align="center">Next.js</h1>
+    <h1 align="center">Your Next.js</h1>
   </a>
 </p>
 
 <p align="center">
-  <a aria-label="Vercel logo" href="https://vercel.com">
-    <img src="https://i.postimg.cc/FKjc76ym/314481.jpg">
+  <img src="https://i.postimg.cc/FKjc76ym/314481.jpg">
   </a>
   <a aria-label="NPM version" href="https://www.npmjs.com/package/next">
     <img alt="" src="https://img.shields.io/npm/v/next.svg?style=for-the-badge&labelColor=000000">
